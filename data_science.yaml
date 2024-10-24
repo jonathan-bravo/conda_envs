@@ -6,10 +6,9 @@ channels:
   - defaults
 dependencies:
   - python=3.12
-  - biopython
-  - pysam
-  - libdeflate=1.20
   - scikit-learn
   - numpy
   - pandas
   - pytorch
+  - matplotlib
+  - seaborn
