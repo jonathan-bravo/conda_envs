@@ -1,0 +1,52 @@
+name: tels_analysis
+channels:
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h6c40b1e_5
+  - ca-certificates=2023.12.12=hecd8cb5_0
+  - expat=2.5.0=hcec6c5f_0
+  - libcxx=14.0.6=h9765a3e_0
+  - libffi=3.4.4=hecd8cb5_0
+  - ncurses=6.4=hcec6c5f_0
+  - openssl=3.0.13=hca72f7f_0
+  - pip=23.3.1=py312hecd8cb5_0
+  - python=3.12.2=hd58486a_0
+  - readline=8.2=hca72f7f_0
+  - setuptools=68.2.2=py312hecd8cb5_0
+  - sqlite=3.41.2=h6c40b1e_0
+  - tk=8.6.12=h5d9f67b_0
+  - wheel=0.41.2=py312hecd8cb5_0
+  - xz=5.4.6=h6c40b1e_0
+  - zlib=1.2.13=h4dc903c_0
+  - pip:
+    - bio==1.6.2
+    - biopython==1.83
+    - biothings-client==0.3.1
+    - certifi==2024.2.2
+    - charset-normalizer==3.3.2
+    - contourpy==1.2.0
+    - cycler==0.12.1
+    - fonttools==4.49.0
+    - gprofiler-official==1.0.0
+    - idna==3.6
+    - kiwisolver==1.4.5
+    - matplotlib==3.8.3
+    - matplotlib-venn==0.11.10
+    - mygene==3.2.2
+    - numpy==1.26.4
+    - packaging==23.2
+    - pandas==2.2.1
+    - pillow==10.2.0
+    - platformdirs==4.2.0
+    - pooch==1.8.1
+    - pyparsing==3.1.1
+    - python-dateutil==2.8.2
+    - pytz==2024.1
+    - requests==2.31.0
+    - scipy==1.12.0
+    - seaborn==0.13.2
+    - six==1.16.0
+    - tqdm==4.66.2
+    - tzdata==2024.1
+    - urllib3==2.2.1
+prefix: /Users/johnny/opt/anaconda3/envs/tels_analysis

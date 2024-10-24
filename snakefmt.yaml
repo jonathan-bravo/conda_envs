@@ -1,0 +1,7 @@
+name: snakefmt
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - snakefmt

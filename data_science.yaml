@@ -1,0 +1,12 @@
+name: data_science
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.13
+  - biopython
+  - pysam
+  - scikit-learn
+  - numpy
+  - pandas
+  - pytorch
