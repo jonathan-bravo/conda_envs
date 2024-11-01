@@ -15,3 +15,7 @@ dependencies:
   - pytorch
   - matplotlib
   - seaborn
+  - ipython
+  - opencv
+  - ipykernel
+  - notebook
