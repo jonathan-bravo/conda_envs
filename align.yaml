@@ -1,0 +1,11 @@
+name: align
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.12
+  - pysam
+  - bwa
+  - minimap2
+  - samtools
+  - bcftools
